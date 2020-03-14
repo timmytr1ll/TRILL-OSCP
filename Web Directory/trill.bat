@@ -1,6 +1,6 @@
 @echo OFF
 echo --------------------------------------------------------------------------------------------
-echo ~TRILLe$calation~ Basic Enumeration/PrivEsc Script by TimmyTrill
+echo ~TRILLe$calation~ Basic Enumeration/PrivEsc Script
 echo --------------------------------------------------------------------------------------------
 echo Creating C:\temp for output files
 mkdir C:\temp
@@ -45,7 +45,7 @@ echo.
 echo --------------------------------------------------------------------------------------------
 echo Unquoted Service
 echo --------------------------------------------------------------------------------------------
-wmic service get name,displayname,pathname,startmode |findstr /i “auto” |findstr /i /v “c:\windows\\” |findstr /i /v “””
+wmic service get name,displayname,pathname,startmode |findstr /i â€œautoâ€ |findstr /i /v â€œc:\windows\\â€ |findstr /i /v â€œâ€â€
 
 echo.
 echo --------------------------------------------------------------------------------------------
@@ -263,7 +263,7 @@ echo.
 echo --------------------------------------------------------------------------------------------
 echo Default Passwords Winlogin
 echo --------------------------------------------------------------------------------------------
-reg query “HKLM\SOFTWARE\Microsoft\Windows NT\Currentversion\Winlogon” 2>nul | findstr “DefaultUserName DefaultDomainName DefaultPassword” >> C:\temp\reg.txt
+reg query â€œHKLM\SOFTWARE\Microsoft\Windows NT\Currentversion\Winlogonâ€ 2>nul | findstr â€œDefaultUserName DefaultDomainName DefaultPasswordâ€ >> C:\temp\reg.txt
 
 echo.
 echo -------------------------------------------------------------------------------------------------
