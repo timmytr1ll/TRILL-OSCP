@@ -1,0 +1,60 @@
+# Nmap 7.70 scan initiated Wed Jan 16 15:22:43 2019 as: nmap -n -sV -Pn -vv -p 80 --script banner,http-apache-negotiation,http-apache-server-status,http-aspnet-debug,http-auth-finder,http-auth,http-backup-finder,http-bigip-cookie,http-cakephp-version,http-cisco-anyconnect,http-comments-displayer,http-config-backup,http-cookie-flags,http-cors,http-cross-domain-policy,http-default-accounts,http-drupal-enum,http-favicon,http-generator,http-git,http-grep,http-headers,http-jsonp-detection,http-ls,http-mcmp,http-method-tamper,http-methods,http-mobileversion-checker,http-ntlm-info,http-passwd,http-php-version,http-robots.txt,http-title,http-traceroute,http-unsafe-output-escaping,http-useragent-tester,http-userdir-enum,http-vhosts,http-vlcstreamer-ls,http-waf-detect,http-waf-fingerprint,http-webdav-scan --script-args http.useragent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1,http-waf-detect.aggro,http-waf-detect.detectBodyChanges,http-waf-fingerprint.intensive=1 -oA /root/scripts/recon_enum/results/exam/http/10.10.10.150_80_http 10.10.10.150
+Nmap scan report for 10.10.10.150
+Host is up, received user-set (0.055s latency).
+Scanned at 2019-01-16 15:22:43 CST for 24s
+
+PORT   STATE SERVICE REASON         VERSION
+80/tcp open  http    syn-ack ttl 63 Apache httpd 2.4.29 ((Ubuntu))
+|_http-comments-displayer: Couldn't find any comments.
+|_http-drupal-enum: Nothing found amongst the top 100 resources,use --script-args number=<number|all> for deeper analysis)
+| http-headers: 
+|   Date: Wed, 16 Jan 2019 21:14:59 GMT
+|   Server: Apache/2.4.29 (Ubuntu)
+|   Set-Cookie: c0548020854924e0aecd05ed9f5b672b=ebcbu45p6j0h0l08ama3g30cdl; path=/; HttpOnly
+|   Expires: Wed, 17 Aug 2005 00:00:00 GMT
+|   Last-Modified: Wed, 16 Jan 2019 21:14:59 GMT
+|   Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+|   Pragma: no-cache
+|   Connection: close
+|   Content-Type: text/html; charset=utf-8
+|   
+|_  (Request type: HEAD)
+|_http-jsonp-detection: Couldn't find any JSONP endpoints.
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-mobileversion-checker: No mobile version detected.
+| http-php-version: Logo query returned unknown hash d41d8cd98f00b204e9800998ecf8427e
+|_Credits query returned unknown hash d41d8cd98f00b204e9800998ecf8427e
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+|_http-title: Site doesn't have a title (text/html; charset=utf-8).
+| http-traceroute: 
+|   last-modified
+|     Hop #1: Wed, 16 Jan 2019 21:14:57 GMT
+|     Hop #2: Wed, 16 Jan 2019 21:14:58 GMT
+|_    Hop #3: Wed, 16 Jan 2019 21:14:58 GMT
+| http-useragent-tester: 
+|   Status for browser useragent: 200
+|   Allowed User Agents: 
+|     Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+|     libwww
+|     lwp-trivial
+|     libcurl-agent/1.0
+|     PHP/
+|     Python-urllib/2.5
+|     GT::WWW
+|     Snoopy
+|     MFC_Tear_Sample
+|     HTTP::Lite
+|     PHPCrawl
+|     URI::Fetch
+|     Zend_Http_Client
+|     http client
+|     PECL::HTTP
+|     Wget/1.13.4 (linux-gnu)
+|_    WWW-Mechanize/1.34
+| http-vhosts: 
+|_127 names had status 200
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Jan 16 15:23:07 2019 -- 1 IP address (1 host up) scanned in 24.59 seconds

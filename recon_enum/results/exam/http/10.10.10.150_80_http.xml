@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.70 scan initiated Wed Jan 16 15:22:43 2019 as: nmap -n -sV -Pn -vv -p 80 -&#45;script banner,http-apache-negotiation,http-apache-server-status,http-aspnet-debug,http-auth-finder,http-auth,http-backup-finder,http-bigip-cookie,http-cakephp-version,http-cisco-anyconnect,http-comments-displayer,http-config-backup,http-cookie-flags,http-cors,http-cross-domain-policy,http-default-accounts,http-drupal-enum,http-favicon,http-generator,http-git,http-grep,http-headers,http-jsonp-detection,http-ls,http-mcmp,http-method-tamper,http-methods,http-mobileversion-checker,http-ntlm-info,http-passwd,http-php-version,http-robots.txt,http-title,http-traceroute,http-unsafe-output-escaping,http-useragent-tester,http-userdir-enum,http-vhosts,http-vlcstreamer-ls,http-waf-detect,http-waf-fingerprint,http-webdav-scan -&#45;script-args &quot;http.useragent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1,http-waf-detect.aggro,http-waf-detect.detectBodyChanges,http-waf-fingerprint.intensive=1&quot; -oA /root/scripts/recon_enum/results/exam/http/10.10.10.150_80_http 10.10.10.150 -->
+<nmaprun scanner="nmap" args="nmap -n -sV -Pn -vv -p 80 -&#45;script banner,http-apache-negotiation,http-apache-server-status,http-aspnet-debug,http-auth-finder,http-auth,http-backup-finder,http-bigip-cookie,http-cakephp-version,http-cisco-anyconnect,http-comments-displayer,http-config-backup,http-cookie-flags,http-cors,http-cross-domain-policy,http-default-accounts,http-drupal-enum,http-favicon,http-generator,http-git,http-grep,http-headers,http-jsonp-detection,http-ls,http-mcmp,http-method-tamper,http-methods,http-mobileversion-checker,http-ntlm-info,http-passwd,http-php-version,http-robots.txt,http-title,http-traceroute,http-unsafe-output-escaping,http-useragent-tester,http-userdir-enum,http-vhosts,http-vlcstreamer-ls,http-waf-detect,http-waf-fingerprint,http-webdav-scan -&#45;script-args &quot;http.useragent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1,http-waf-detect.aggro,http-waf-detect.detectBodyChanges,http-waf-fingerprint.intensive=1&quot; -oA /root/scripts/recon_enum/results/exam/http/10.10.10.150_80_http 10.10.10.150" start="1547673763" startstr="Wed Jan 16 15:22:43 2019" version="7.70" xmloutputversion="1.04">
+<scaninfo type="syn" protocol="tcp" numservices="1" services="80"/>
+<verbose level="2"/>
+<debugging level="0"/>
+<taskbegin task="NSE" time="1547673763"/>
+<taskend task="NSE" time="1547673763"/>
+<taskbegin task="NSE" time="1547673763"/>
+<taskend task="NSE" time="1547673763"/>
+<taskbegin task="SYN Stealth Scan" time="1547673763"/>
+<taskend task="SYN Stealth Scan" time="1547673763" extrainfo="1 total ports"/>
+<taskbegin task="Service scan" time="1547673763"/>
+<taskend task="Service scan" time="1547673770" extrainfo="1 service on 1 host"/>
+<taskbegin task="NSE" time="1547673770"/>
+<taskend task="NSE" time="1547673787"/>
+<taskbegin task="NSE" time="1547673787"/>
+<taskend task="NSE" time="1547673787"/>
+<host starttime="1547673763" endtime="1547673787"><status state="up" reason="user-set" reason_ttl="0"/>
+<address addr="10.10.10.150" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<ports><port protocol="tcp" portid="80"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="http" product="Apache httpd" version="2.4.29" extrainfo="(Ubuntu)" method="probed" conf="10"><cpe>cpe:/a:apache:http_server:2.4.29</cpe></service><script id="http-comments-displayer" output="Couldn&apos;t find any comments."/><script id="http-drupal-enum" output="Nothing found amongst the top 100 resources,use -&#45;script-args number=&lt;number|all&gt; for deeper analysis)"/><script id="http-headers" output="&#xa;  Date: Wed, 16 Jan 2019 21:14:59 GMT&#xa;  Server: Apache/2.4.29 (Ubuntu)&#xa;  Set-Cookie: c0548020854924e0aecd05ed9f5b672b=ebcbu45p6j0h0l08ama3g30cdl; path=/; HttpOnly&#xa;  Expires: Wed, 17 Aug 2005 00:00:00 GMT&#xa;  Last-Modified: Wed, 16 Jan 2019 21:14:59 GMT&#xa;  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xa;  Pragma: no-cache&#xa;  Connection: close&#xa;  Content-Type: text/html; charset=utf-8&#xa;  &#xa;  (Request type: HEAD)&#xa;"/><script id="http-jsonp-detection" output="Couldn&apos;t find any JSONP endpoints."/><script id="http-methods" output="&#xa;  Supported Methods: GET HEAD POST OPTIONS"><table key="Supported Methods">
+<elem>GET</elem>
+<elem>HEAD</elem>
+<elem>POST</elem>
+<elem>OPTIONS</elem>
+</table>
+</script><script id="http-mobileversion-checker" output="No mobile version detected."/><script id="http-php-version" output="Logo query returned unknown hash d41d8cd98f00b204e9800998ecf8427e&#xa;Credits query returned unknown hash d41d8cd98f00b204e9800998ecf8427e"/><script id="http-server-header" output="Apache/2.4.29 (Ubuntu)"><elem>Apache/2.4.29 (Ubuntu)</elem>
+</script><script id="http-title" output="Site doesn&apos;t have a title (text/html; charset=utf-8)."></script><script id="http-traceroute" output="&#xa;  last-modified&#xa;    Hop #1: Wed, 16 Jan 2019 21:14:57 GMT&#xa;    Hop #2: Wed, 16 Jan 2019 21:14:58 GMT&#xa;    Hop #3: Wed, 16 Jan 2019 21:14:58 GMT&#xa;"/><script id="http-useragent-tester" output="&#xa;  Status for browser useragent: 200&#xa;  Allowed User Agents: &#xa;    Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1&#xa;    libwww&#xa;    lwp-trivial&#xa;    libcurl-agent/1.0&#xa;    PHP/&#xa;    Python-urllib/2.5&#xa;    GT::WWW&#xa;    Snoopy&#xa;    MFC_Tear_Sample&#xa;    HTTP::Lite&#xa;    PHPCrawl&#xa;    URI::Fetch&#xa;    Zend_Http_Client&#xa;    http client&#xa;    PECL::HTTP&#xa;    Wget/1.13.4 (linux-gnu)&#xa;    WWW-Mechanize/1.34"><elem key="Status for browser useragent">200</elem>
+<table key="Allowed User Agents">
+<elem>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1</elem>
+<elem>libwww</elem>
+<elem>lwp-trivial</elem>
+<elem>libcurl-agent/1.0</elem>
+<elem>PHP/</elem>
+<elem>Python-urllib/2.5</elem>
+<elem>GT::WWW</elem>
+<elem>Snoopy</elem>
+<elem>MFC_Tear_Sample</elem>
+<elem>HTTP::Lite</elem>
+<elem>PHPCrawl</elem>
+<elem>URI::Fetch</elem>
+<elem>Zend_Http_Client</elem>
+<elem>http client</elem>
+<elem>PECL::HTTP</elem>
+<elem>Wget/1.13.4 (linux-gnu)</elem>
+<elem>WWW-Mechanize/1.34</elem>
+</table>
+</script><script id="http-vhosts" output="&#xa;127 names had status 200"/></port>
+</ports>
+<times srtt="55399" rttvar="55399" to="276995"/>
+</host>
+<taskbegin task="NSE" time="1547673787"/>
+<taskend task="NSE" time="1547673787"/>
+<taskbegin task="NSE" time="1547673787"/>
+<taskend task="NSE" time="1547673787"/>
+<runstats><finished time="1547673787" timestr="Wed Jan 16 15:23:07 2019" elapsed="24.59" summary="Nmap done at Wed Jan 16 15:23:07 2019; 1 IP address (1 host up) scanned in 24.59 seconds" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>

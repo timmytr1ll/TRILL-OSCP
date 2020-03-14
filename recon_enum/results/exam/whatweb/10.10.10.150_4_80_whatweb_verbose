@@ -1,0 +1,4178 @@
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/administrator[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/administrator/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/administrator/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/administrator/
+	Content-Length: 320
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/.php[0m
+Status    : 403 Forbidden
+Title     : [1m[33m403 Forbidden[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 291
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/.ht_wsr[0m
+Status    : 403 Forbidden
+Title     : [1m[33m403 Forbidden[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 294
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/administrator/components/com_config/controller[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/administrator/components/com_config/controller/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/administrator/components/com_config/controller/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/administrator/components/com_config/controller/
+	Content-Length: 353
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/administrator/language/overrides/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/administrator/[0m
+Status    : 200 OK
+Title     : [1m[33mCewl Curling site! - Administration[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [37mprobably[0m [1m[37mMambo[0m[[1m[35mcom_users[0m], [1m[37mX-UA-Compatible[0m[[37mIE=edge[0m], [1m[37mCookies[0m[[37m99fb082d992a92668ce87e5540bd20fa[0m], [1m[37mX-Frame-Options[0m[[37mSAMEORIGIN[0m], [1m[37mScript[0m[[37mapplication/json[0m], [1m[37mMetaGenerator[0m[[37mJoomla! - Open Source Content Management[0m], [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mJQuery[0m, [1m[37mApache[0m[[1m[32m2.4.29[0m], [37mprobably[0m [1m[37mJoomla[0m[[1m[35mcom_users[0m], [1m[37mHttpOnly[0m[[37m99fb082d992a92668ce87e5540bd20fa[0m], [1m[37mPasswordField[0m[[37mpasswd[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mCookies[0m ]
+	Display the names of cookies in the HTTP headers. The 
+	values are not returned to save on space. 
+
+	String       : [1m[36m99fb082d992a92668ce87e5540bd20fa[0m
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mHttpOnly[0m ]
+	If the HttpOnly flag is included in the HTTP set-cookie 
+	response header and the browser supports it then the cookie 
+	cannot be accessed through client side script - More Info: 
+	http://en.wikipedia.org/wiki/HTTP_cookie 
+
+	String       : [1m[36m99fb082d992a92668ce87e5540bd20fa[0m
+
+[ [1m[37mJQuery[0m ]
+	A fast, concise, JavaScript that simplifies how to traverse 
+	HTML documents, handle events, perform animations, and add 
+	AJAX. 
+
+	Website     : http://jquery.com/
+
+[ [1m[37mJoomla[0m ]
+	Opensource CMS written in PHP. Aggressive version detection 
+	compares just 5 files, valid for versions 1.5.0-1.5.22 and 
+	1.6.0-1.6.1. 
+
+	Certainty    : probably
+	Module       : [1m[35mcom_users[0mWhatWeb report for [1m[34mhttp://10.10.10.150:80/administrator/components/com_finder/helpers/indexer/stemmer[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/administrator/components/com_finder/helpers/indexer/stemmer/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/administrator/components/com_finder/helpers/indexer/stemmer/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/administrator/components/com_finder/helpers/indexer/stemmer/
+	Content-Length: 366
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/administrator/manifests/packages/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:27 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/modules[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/modules/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/modules/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/modules/
+	Content-Length: 314
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/.htm.html[0m
+Status    : 403 Forbidden
+Title     : [1m[33m403 Forbidden[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 296
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/.ht_wsr.html[0m
+Status    : 403 Forbidden
+Title     : [1m[33m403 Forbidden[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 299
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/administrator/components/com_finder/helpers/indexer/parser[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/administrator/components/com_finder/helpers/indexer/parser/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/administrator/components/com_finder/helpers/indexer/parser/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/administrator/components/com_finder/helpers/indexer/parser/
+	Content-Length: 365
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/administrator/components/com_finder/views/index[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/administrator/components/com_finder/views/index/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/administrator/components/com_finder/views/index/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/administrator/components/com_finder/views/index/
+	Content-Length: 354
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/media[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/media/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/media/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/media/
+	Content-Length: 312
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/components[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/components/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/components/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/components/
+	Content-Length: 317
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/cache/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:30 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/.htaccess[0m
+Status    : 403 Forbidden
+Title     : [1m[33m403 Forbidden[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 296
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/.html[0m
+Status    : 403 Forbidden
+Title     : [1m[33m403 Forbidden[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 292
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/.html.html[0m
+Status    : 403 Forbidden
+Title     : [1m[33m403 Forbidden[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 297
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/configuration.php[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:32 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 0
+	Connection: close
+	Content-Type: text/html; charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/bin[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/bin/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/bin/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:28 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/bin/
+	Content-Length: 310
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/administrator/components/com_config/controller/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /administrator/components/com_config/controller[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:28 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 486
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/administrator/components/com_finder/views/index/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /administrator/components/com_finder/views/index[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:31 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 503
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/components/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:30 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/language[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/language/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/language/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/language/
+	Content-Length: 315
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/bin/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:30 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/index.php?fnf=index[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mCookies[0m[[37mc0548020854924e0aecd05ed9f5b672b[0m], [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHttpOnly[0m[[37mc0548020854924e0aecd05ed9f5b672b[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mCookies[0m ]
+	Display the names of cookies in the HTTP headers. The 
+	values are not returned to save on space. 
+
+	String       : [1m[36mc0548020854924e0aecd05ed9f5b672b[0m
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mHttpOnly[0m ]
+	If the HttpOnly flag is included in the HTTP set-cookie 
+	response header and the browser supports it then the cookie 
+	cannot be accessed through client side script - More Info: 
+	http://en.wikipedia.org/wiki/HTTP_cookie 
+
+	String       : [1m[36mc0548020854924e0aecd05ed9f5b672b[0m
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:33 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Set-Cookie: c0548020854924e0aecd05ed9f5b672b=2o6marh1lpt3bio3bu2q2gpneh; path=/; HttpOnly
+	Expires: Wed, 17 Aug 2005 00:00:00 GMT
+	Last-Modified: Wed, 16 Jan 2019 21:51:33 GMT
+	Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+	Pragma: no-cache
+	Content-Length: 0
+	Connection: close
+	Content-Type: text/html; charset=utf-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/cli/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:30 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/administrator/components/com_finder/helpers/indexer/parser/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /administrator/components/com_finder/helpers/indexer/parser[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:31 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 520
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/layouts/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:35 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/language/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:36 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/plugins[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/plugins/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/plugins/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/plugins/
+	Content-Length: 314
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/modules/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:30 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/database/exporter[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/database/exporter/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/database/exporter/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:38 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/database/exporter/
+	Content-Length: 341
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/cache[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/cache/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/cache/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/cache/
+	Content-Length: 312
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/index.php?fnf=index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mCookies[0m[[37mc0548020854924e0aecd05ed9f5b672b[0m], [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHttpOnly[0m[[37mc0548020854924e0aecd05ed9f5b672b[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mCookies[0m ]
+	Display the names of cookies in the HTTP headers. The 
+	values are not returned to save on space. 
+
+	String       : [1m[36mc0548020854924e0aecd05ed9f5b672b[0m
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mHttpOnly[0m ]
+	If the HttpOnly flag is included in the HTTP set-cookie 
+	response header and the browser supports it then the cookie 
+	cannot be accessed through client side script - More Info: 
+	http://en.wikipedia.org/wiki/HTTP_cookie 
+
+	String       : [1m[36mc0548020854924e0aecd05ed9f5b672b[0m
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:34 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Set-Cookie: c0548020854924e0aecd05ed9f5b672b=344444dtne2u7rdfed02874b53; path=/; HttpOnly
+	Expires: Wed, 17 Aug 2005 00:00:00 GMT
+	Last-Modified: Wed, 16 Jan 2019 21:51:34 GMT
+	Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+	Pragma: no-cache
+	Content-Length: 0
+	Connection: close
+	Content-Type: text/html; charset=utf-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/.htm[0m
+Status    : 403 Forbidden
+Title     : [1m[33m403 Forbidden[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 291
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/application/web/router[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/application/web/router/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/application/web/router/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:37 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/application/web/router/
+	Content-Length: 346
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/language/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:35 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/templates[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/templates/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/templates/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/templates/
+	Content-Length: 316
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/.htaccess.html[0m
+Status    : 403 Forbidden
+Title     : [1m[33m403 Forbidden[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Content-Length: 301
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/templates/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:42 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/components/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:32 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/bin/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:34 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/application/web/router/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/application/web/router[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:41 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 496
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/plugins/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:38 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/images/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:33 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/media/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:31 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/google/data[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/google/data/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/google/data/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:42 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/google/data/
+	Content-Length: 335
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/administrator/templates/hathor/html/com_finder/index[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/administrator/templates/hathor/html/com_finder/index/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/administrator/templates/hathor/html/com_finder/index/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:27 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/administrator/templates/hathor/html/com_finder/index/
+	Content-Length: 359
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/media/editors/tinymce/templates/layout1.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:44 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "cd-56ccab6d29180-gzip"
+	Accept-Ranges: bytes
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 129
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/includes/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:33 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/administrator/cache/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/
+	Content-Length: 316
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/google/data/plus[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/google/data/plus/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/google/data/plus/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:43 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/google/data/plus/
+	Content-Length: 340
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/google/data/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/google/data[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:45 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 547
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:37 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/cache/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:40 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/google/auth[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/google/auth/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/google/auth/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:41 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/google/auth/
+	Content-Length: 335
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/plugins/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:46 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/google/embed[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/google/embed/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/google/embed/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:43 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/google/embed/
+	Content-Length: 336
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/modules/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:46 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/google/data/plus/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/google/data/plus[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:47 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 514
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/database/query[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/database/query/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/database/query/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:40 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/database/query/
+	Content-Length: 338
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/layouts[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/layouts/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/layouts/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:26 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/layouts/
+	Content-Length: 314
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/google/data/picasa[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/google/data/picasa/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/google/data/picasa/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:42 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/google/data/picasa/
+	Content-Length: 342
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/administrator/components/com_finder/helpers/indexer/stemmer/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /administrator/components/com_finder/helpers/indexer/stemmer[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:30 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 524
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/database/query/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/database/query[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:51 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 633
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/application/web[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/application/web/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/application/web/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:37 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/application/web/
+	Content-Length: 339
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/database/driver[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/database/driver/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/database/driver/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:38 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/database/driver/
+	Content-Length: 339
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/layouts/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:51 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/database/exporter/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/database/exporter[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:39 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 519
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/cli[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/cli/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/cli/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:48 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/cli/
+	Content-Length: 310
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/media/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:45 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/session/storage[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/session/storage/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/session/storage/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:43 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/session/storage/
+	Content-Length: 339
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/media/editors/tinymce/templates/snippet1.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:44 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "28-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 40
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/google/data/picasa/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/google/data/picasa[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:52 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 495
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/database/iterator[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/database/iterator/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/database/iterator/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:40 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/database/iterator/
+	Content-Length: 341
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/google/embed/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/google/embed[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:50 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 493
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:47 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/joomla/database/importer[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/joomla/database/importer/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/joomla/database/importer/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:39 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/joomla/database/importer/
+	Content-Length: 341
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/administrator/templates/hathor/html/com_finder/index/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /administrator/templates/hathor/html/com_finder/index[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:45 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 488
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/libraries/cms[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/libraries/cms/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/libraries/cms/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:36 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/libraries/cms/
+	Content-Length: 320
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/cli/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:54 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/database/importer/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/database/importer[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:57 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 515
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/images[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/images/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/images/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:49 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/images/
+	Content-Length: 313
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/application/web/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/application/web[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:53 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 497
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/includes[0m
+Status    : 301 Moved Permanently
+Title     : [1m[33m301 Moved Permanently[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mRedirectLocation[0m[[37mhttp://10.10.10.150/includes/[0m]
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mRedirectLocation[0m ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : [1m[36mhttp://10.10.10.150/includes/[0m (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Date: Wed, 16 Jan 2019 21:51:49 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Location: http://10.10.10.150/includes/
+	Content-Length: 315
+	Connection: close
+	Content-Type: text/html; charset=iso-8859-1
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/images/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:59 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/database/driver/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/database/driver[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:53 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 583
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/cms/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/cms[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:58 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 468
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/language/overrides/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:35 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/google/auth/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/google/auth[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:49 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 472
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/session/storage/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/session/storage[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:55 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 567
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/templates/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:47 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/libraries/joomla/database/iterator/[0m
+Status    : 200 OK
+Title     : [1m[33mIndex of /libraries/joomla/database/iterator[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mIndex-Of[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+[ [1m[37mIndex-Of[0m ]
+	Index of 
+
+	Google Dorks: (1)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:56 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	Content-Length: 584
+	Connection: close
+	Content-Type: text/html;charset=UTF-8
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150/includes/[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:52:00 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
+WhatWeb report for [1m[34mhttp://10.10.10.150:80/tmp/index.html[0m
+Status    : 200 OK
+Title     : [1m[33m<None>[0m
+IP        : 10.10.10.150
+Country   : [1m[31mRESERVED, ZZ[0m
+
+Summary   : [1m[37mHTTPServer[0m[[1m[31mUbuntu Linux[0m][[1m[36mApache/2.4.29 (Ubuntu)[0m], [1m[37mApache[0m[[1m[32m2.4.29[0m], [1m[37mHTML5[0m
+
+Detected Plugins:
+[ [1m[37mApache[0m ]
+	The Apache HTTP Server Project is an effort to develop and 
+	maintain an open-source HTTP server for modern operating 
+	systems including UNIX and Windows NT. The goal of this 
+	project is to provide a secure, efficient and extensible 
+	server that provides HTTP services in sync with the current 
+	HTTP standards. 
+
+	Version      : [1m[32m2.4.29[0m (from HTTP Server Header)
+	Google Dorks: (3)
+	Website     : http://httpd.apache.org/
+
+[ [1m[37mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1m[37mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	OS           : [1m[31mUbuntu Linux[0m
+	String       : [1m[36mApache/2.4.29 (Ubuntu)[0m (from server string)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	Date: Wed, 16 Jan 2019 21:51:48 GMT
+	Server: Apache/2.4.29 (Ubuntu)
+	Last-Modified: Tue, 22 May 2018 12:39:50 GMT
+	ETag: "1f-56ccab6d29180"
+	Accept-Ranges: bytes
+	Content-Length: 31
+	Connection: close
+	Content-Type: text/html
+	
